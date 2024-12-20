@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ESP32 CAM Module Shield.PrjPcb]
+   Generated File[ESP32PCB_Copper_Signal_Top.gbr]
+   Generated File[ESP32PCB_Copper_Signal_Bot.gbr]
+   Generated File[ESP32PCB_Legend_Top.gbr]
+   Generated File[ESP32PCB_Legend_Bot.gbr]
+   Generated File[ESP32PCB_Soldermask_Top.gbr]
+   Generated File[ESP32PCB_Soldermask_Bot.gbr]
+   Generated File[ESP32PCB_Paste_Top.gbr]
+   Generated File[ESP32PCB_Paste_Bot.gbr]
+   Generated File[ESP32PCB_Profile.gbr]
+   Generated File[ESP32PCB_NPTH_Drill.gbr]
+   Generated File[ESP32PCB_PTH_Drill.gbr]
+   Generated File[ESP32PCB.EXTREP]
+   Generated File[ESP32PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 11:14:27 PM On 12/19/2024
