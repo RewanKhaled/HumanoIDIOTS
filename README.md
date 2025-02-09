@@ -1,5 +1,8 @@
 # HumanoIDIOTS: A Humanoid for Empowering the Visually Impaired
 
+![Project Banner]
+(https://raw.githubusercontent.com/RewanKhaled/HumanoIDIOTS/main/humanoidiot.png)
+
 ## 📌 Project Overview
 HumanoIDIOT is a cost-effective humanoid robot designed to assist visually impaired individuals. It integrates navigation assistance, face recognition, voice interaction, and health monitoring using **ROS (Robot Operating System)** and **affordable hardware components**. 
 
