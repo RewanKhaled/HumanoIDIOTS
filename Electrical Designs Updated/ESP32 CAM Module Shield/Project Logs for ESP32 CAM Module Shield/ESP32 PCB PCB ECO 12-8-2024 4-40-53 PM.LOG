@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=+12V Pin=U1-1
-Removed Pin From Net: NetName=+12V Pin=U2-1
-Added Component: Designator=D1(FP-1N4007-MFG)
-Add Pin To Net: Unknown Pin: Pin D1-2
-Added Pin To Net: NetName=+D Pin=U1-1
-Added Pin To Net: NetName=+D Pin=U2-1
-Added Net: Name=+D
-Add Class Member: Failed to add class member : Component D1 1N4007
