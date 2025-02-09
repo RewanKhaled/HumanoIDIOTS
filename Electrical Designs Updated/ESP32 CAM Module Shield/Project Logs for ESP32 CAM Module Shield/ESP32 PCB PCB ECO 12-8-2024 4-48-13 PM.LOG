@@ -1,0 +1,40 @@
+Added Component: Designator=D1(FP-1N4007-MFG)
+Added Component: Designator=J1(Screw Terminal 2 pins)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LSCS ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C3818636"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Screw Terminal 2 pins)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LSCS ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C3818636"; VariantName = "[No Variations]"
+Added Component: Designator=J3(ESP32 CAM)
+Added Component: Designator=J4(Pin Header 1x2)
+Added Component: Designator=J5(Pin Header 1x2)
+Added Component: Designator=U1(TO220)
+Added Component: Designator=U2(TO220)
+Added Pin To Net: NetName=+5V Pin=J3-5V
+Added Net: Name=+5V
+Added Pin To Net: NetName=+6V Pin=J1-2
+Added Net: Name=+6V
+Added Pin To Net: NetName=+12V Pin=J2-1
+Added Net: Name=+12V
+Added Net: Name=+D
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=J5_1 Pin=J3-GNDR
+Added Pin To Net: NetName=J5_1 Pin=J5-2
+Added Net: Name=J5_1
+Added Pin To Net: NetName=RST Pin=J3-0
+Added Pin To Net: NetName=RST Pin=J5-1
+Added Net: Name=RST
+Added Pin To Net: NetName=RX Pin=J3-3
+Added Pin To Net: NetName=RX Pin=J4-1
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=J3-1
+Added Pin To Net: NetName=TX Pin=J4-2
+Added Net: Name=TX
+Added Class: Name=ESP32 Schematic

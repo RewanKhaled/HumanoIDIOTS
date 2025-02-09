@@ -1,0 +1,14 @@
+Added Component: Designator=D1(FP-1N4007-MFG)
+Added Component: Designator=U1(TO220)
+Added Component: Designator=U2(TO220)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Class Member: Failed to add class member : Component D1 1N4007
+Add Class Member: Failed to add class member : Component U1 L7806ABV
+Add Class Member: Failed to add class member : Component U2 L7805CV

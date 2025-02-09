@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=7805 NewDesignator=U2
+Change Component Designator: OldDesignator=7806 NewDesignator=U1
+Change Component Designator: OldDesignator=RST NewDesignator=J5
+Change Component Designator: OldDesignator=TX/RX NewDesignator=J4
+Added Component: Designator=J1(Screw Terminal 2 pins)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LSCS ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C3818636"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Screw Terminal 2 pins)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LSCS ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C3818636"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+6V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+12V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=ESP32 Schematic Member=Component J1 Screw Terminal 2 pins
+Added Member To Class: ClassName=ESP32 Schematic Member=Component J2 Screw Terminal 2 pins
