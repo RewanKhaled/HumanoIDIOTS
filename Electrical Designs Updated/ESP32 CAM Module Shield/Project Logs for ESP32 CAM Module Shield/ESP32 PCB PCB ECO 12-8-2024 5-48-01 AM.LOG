@@ -1,0 +1,8 @@
+Added Component: Designator=J3(ESP32 CAM)
+Added Pin To Net: NetName=RST Pin=J3-0
+Added Pin To Net: NetName=TX Pin=J3-1
+Added Pin To Net: NetName=RX Pin=J3-3
+Added Pin To Net: NetName=+5V Pin=J3-5V
+Added Pin To Net: NetName=J5_1 Pin=J3-GNDR
+Added Pin To Net: NetName=GND Pin=J3-GND
+Added Member To Class: ClassName=ESP32 Schematic Member=Component J3 ESP PINS
